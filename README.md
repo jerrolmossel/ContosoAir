@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/CloudTransform/ContosoAir/_apis/build/status/jerrolmossel.ContosoAir?branchName=master)](https://dev.azure.com/CloudTransform/ContosoAir/_build/latest?definitionId=14&branchName=master)
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/CloudTransform/ContosoAir/_apis/build/status/jerrolmossel.ContosoAir?branchName=master)](https://dev.azure.com/CloudTransform/ContosoAir/_build/latest?definitionId=14&branchName=master)# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
 # Microsoft.Github CI Demos
